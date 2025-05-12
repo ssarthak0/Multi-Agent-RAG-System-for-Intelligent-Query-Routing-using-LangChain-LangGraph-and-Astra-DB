@@ -1,4 +1,4 @@
-# 🧠 Multi-Agent-RAG-System-for-Intelligent-Query-Routing-using-LangChain-LangGraph-and-Astra-DB 
+# 🧠 Multi-Agent-RAG-System-for-Intelligent-Query-Routing-using-LangGraph-and-Astra-DB 
 
 This project leverages **LangChain**, **LangGraph**, **Astra DB**, and **Wikipedia** to create an intelligent system for **routing user queries**. Based on the context of the question, the system dynamically routes queries to either a **Vectorstore Retrieval-Augmented Generation (RAG)** system or a **Wikipedia Search** for the best answer.
 
